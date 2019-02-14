@@ -1,0 +1,89 @@
+body {
+  font-family: Combo;
+  background-color: #a2bbe8;
+}
+
+title {
+  
+}
+
+h2 {
+  font-size: 35px;
+  color: #a74fff;
+  
+}
+
+h4 {
+  font-size: 27px; 
+  font-weight: 700;
+  color: ;
+}
+
+p {
+  font-size: 23px;
+ font-weight: 500;
+  color: #6a00ff;
+}
+ul{
+ font-size: 23px;
+  font-weight: 500;
+  color: #6a00ff;
+}
+
+.symptoms {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  border-radius: 40px;
+  transition: .4s;
+}
+.symptoms:hover {
+  transform: scale(1.1); 
+  transition: .4s;
+}
+
+.carriers {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40px;
+  transition: .4s;
+}
+
+.carriers:hover {
+  transform: scale(1.5);
+  transition: .4s;
+}
+
+p3{
+  font-size: 18px;
+  font-weight: 500;
+  color: #6a00ff;
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40px;
+  transition: .4s;
+}
+
+.logo:hover {
+  transform: scale(1.5);
+  transition: .4s;
+}
+
+.shakyvest{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40px;
+  transition: .4s;
+}
+
+.shakyvest:hover{
+   transform: scale(1.5);
+  transition: .4s;
+}
